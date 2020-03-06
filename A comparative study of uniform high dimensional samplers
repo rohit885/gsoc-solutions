@@ -1,0 +1,6 @@
+
+library(ggplot2)
+x1<-runif(1000, min = -2, max = 2)
+x2<-runif(1000, min = -2, max = 2)
+g<-ggplot(data.frame( x=x1, y=x2 )) + geom_point( aes(x=x, y=y))
+g
