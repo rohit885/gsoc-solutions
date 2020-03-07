@@ -1,2 +1,4 @@
 # gsoc-solutions
-![rlot](https://user-images.githubusercontent.com/61632706/76150333-4deb8980-60cf-11ea-83a3-761671965cf7.png)
+easy task image
+![RGui (64-bit) 08-03-2020 00_20_31 (2)](https://user-images.githubusercontent.com/61632706/76150658-f3542c80-60d2-11ea-9ec4-6da5acaf4be1.png)
+
