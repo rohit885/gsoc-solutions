@@ -2,10 +2,10 @@
 
 library("volesti")
 P=GenCube(100,'H')
-p=sample_points(P,walk_step = 10)
-plot(p)
-q=sample_points(P,walk_step = 20)
+q=sample_points(P,walk_step = 10)
 plot(q)
+p=sample_points(P,walk_step = 20)
+plot(p)
 r=samole points(P,walk_step=25)
 plot(r)
 
