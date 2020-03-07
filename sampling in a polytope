@@ -1,0 +1,6 @@
+library("volesti")
+P=GenCube(100,'H')
+p=sample_points(P,)
+p
+plot(p)
+easy
