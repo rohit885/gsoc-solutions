@@ -1,0 +1,18 @@
+#creating the 100 dimensional hypercube and then sampling point from it for 2 diffrent walk steps
+
+library("volesti")
+P=GenCube(100,'H')
+p=sample_points(P,walk_step = 10)
+plot(p)
+q=sample_points(P,walk_step = 20)
+plot(q)
+r=samole points(P,walk_step=25)
+plot(r)
+
+
+#pictures of the sampled items are in the readme file
+
+mixing of occurs more towards the the line y=x 
+which pases through the origin and while sampling more points of the sample are present near the line rather than the aeay from the line
+we can see images for more clarification
+
